@@ -115,5 +115,6 @@
       "note": "Bedrock membutuhkan Windows desktop dengan Microsoft Store/Xbox. Windows Server bukan target yang didukung setup ini.",
       "status": "unsupported_environment"
     }
-  }
+  },
+  "heartbeat_at": "2026-10-11T22:21:45.2648425Z"
 }
